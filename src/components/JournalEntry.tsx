@@ -13,16 +13,16 @@ interface JournalEntry {
 }
 
 const reflectionPrompts = [
-  "What are three things you're grateful for today?",
-  "What challenged you today, and how did you handle it?",
-  "Describe a moment that made you smile today.",
-  "What would you like to let go of from today?",
-  "How did you practice self-care today?",
-  "What did you learn about yourself today?",
-  "What are you looking forward to tomorrow?",
-  "Write about a person who positively impacted your day.",
-  "What emotions did you experience today, and why?",
-  "What accomplishment, no matter how small, are you proud of today?",
+  "If you saw someone feeling the way you are feeling right now, what would you tell that person?",
+  "If you wrote a book about youur first heartbreak, what would the last sentence be?",
+  "If you ever had to walk into a room full of everyone you loved, who would you look for first?",
+  "What's the best memory you have of your father and/or mother?",
+  "Who is the persoon you lost and would like to hug again, even if only for a moment?",
+  "If you ever had to walk into a room full of everyone you loved, who would you look for first?",
+  "If someone offered you a box containing everything you've ever lost, what would you look for firs?",
+  "You are alone, and you have one last phone call before you die... Who would you call for a final goodbye?",
+  "Are you okay?",
+  "If you could send a note to your younger self, what would it say?",
 ];
 
 export function JournalEntry() {
